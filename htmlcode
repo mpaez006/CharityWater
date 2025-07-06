@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Charity: Water Landing Page</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Hero Section -->
+    <section class="hero">
+        <img src="img/cw_logo.png" alt="Charity: Water Logo" class="logo">
+        <h1>Turn Vision Into Verified Impact</h1>
+        <p>Join a global community funding clean, sustainable water projects with full transparency and measurable outcomes.</p>
+        <a href="#" class="donate-button">Donate With Purpose</a>
+    </section>
+
+    <!-- Story Section -->
+    <section class="why-it-matters">
+        <h2>Why It Matters</h2>
+        <p>
+            Millions of people still lack access to clean water, which is globally recognized as a basic human right. Charity Water empowers communities with long-term transparent solutions that are trackable from donation to impact, thus providing these underserved communities with resources that they need.
+        </p>
+    </section>
+
+    <!-- Real-World Impact Story Section -->
+    <section class="impact-story">
+        <h2>Impact in Action</h2>
+        <div class="impact-content">
+            <img src="img/HeroImage.png" alt="Community at a water pump" class="impact-image">
+            <p>
+                Thanks to supporters like you, this community no longer walks for hours to access clean water. Children are healthier which means that parents have more time for their families, and students like Taylor see the ripple effect of sustainable aid. Every donation counts!
+            </p>
+        </div>
+    </section>
+
+    <!-- Call-to-Action Section -->
+    <section class="call-to-action">
+        <h2>Ready to Make an Impact?</h2>
+        <p>Every drop counts. Contribute to scalable change and help bring clean water to more communities today.</p>
+        <a href="#" class="donate-button">Donate With Purpose</a>
+    </section>
+</body>
+</html>
